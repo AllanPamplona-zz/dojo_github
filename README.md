@@ -1,1 +1,1 @@
-Dojo github
+Dojo github v1.0
